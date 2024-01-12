@@ -1,2 +1,2 @@
-# Odin-project
+# Odin-Recipes-Project
 My first github repo
