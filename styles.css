@@ -1,0 +1,24 @@
+html {
+    font-family: cursive;
+    box-sizing: border-box;
+    margin:50px;
+    padding: 8px
+}
+
+*,
+*::before
+*::after {
+    box-sizing: inherit;
+}
+
+h1 {
+    color: darkred;
+    font-size: 45px;
+}
+
+* {
+    color: #fff;
+    font-family: cursive;
+    margin: 15px;
+    font-size: 20px;
+}
