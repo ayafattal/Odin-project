@@ -2,7 +2,7 @@ html {
     background-color: cornsilk;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-sizing: border-box;
-    margin: 0px;
+    margin: 30px;
     padding: 8px;
 }
 
@@ -25,7 +25,8 @@ h2 {
 
 p {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 22px; 
+    font-size: 22px;
+    margin:10px;
 }
 
 .list {
@@ -52,7 +53,7 @@ p {
 }
 
 .Mainimage {
-    margin: 18px;
+    margin: 30px;
     border: 3px solid #FFF8DC;
     border-radius: 10px;
     border-width: 5px;
