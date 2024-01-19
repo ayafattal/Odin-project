@@ -1,8 +1,8 @@
 html {
     font-family: cursive;
     box-sizing: border-box;
-    margin:50px;
-    padding: 8px
+    margin: 150 px;
+    padding: 8 px;
 }
 
 *,
@@ -13,12 +13,12 @@ html {
 
 h1 {
     color: darkred;
-    font-size: 45px;
+    font-size: 45 px;
 }
 
 * {
     color: #fff;
     font-family: cursive;
-    margin: 15px;
-    font-size: 20px;
+    margin: 15 px;
+    font-size: 20 px;
 }
