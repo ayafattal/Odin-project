@@ -2,8 +2,8 @@ html {
     background-color: cornsilk;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-sizing: border-box;
-    margin: 50px;
-    padding: 35px;
+    margin: 150 px;
+    padding: 35 px;
 }
 
 *,
@@ -15,29 +15,29 @@ html {
 h1 {
     font-family: cursive;
     color: dimgray;
-    font-size: 45px;
+    font-size: 45 px;
 }
 
 h2 {
     font-family:'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 25 px;
 }
 
 p {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 22px; 
+    font-size: 22 px; 
 }
 
 .list {
     display: block;
     margin-right: auto;
     font-family: cursive;
-    font-size: 16px;
+    font-size: 16 px;
 }
 
 .method {
     font-family: cursive;
-    font-size: 18px;
+    font-size: 18 px;
 }
 
 .container {
@@ -47,33 +47,33 @@ p {
 }
 
 .content {
-    font-size: 22px;
-    padding-left: 18px;
+    font-size: 22 px;
+    padding-left: 18 px;
 }
 
 .Mainimage {
-    margin: 18px;
-    border: 3px solid #FFF8DC;
-    border-radius: 10px;
-    border-width: 5px;
+    margin: 18 px;
+    border: 3 px solid #FFF8DC;
+    border-radius: 10 px;
+    border-width: 5 px;
 }
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:43%;
+    width:43 %;
     height: auto;
 
 }
 
 .wrapper {
-    margin: 100px auto;
-    width: 80%;
+    margin: 100 px auto;
+    width: 80 %;
 }
 
 .image1 {
-    max-width: 450px;
+    max-width: 450 px;
     float: right;
 }
 
@@ -82,12 +82,12 @@ p {
 }
 
 .wrapper2 {
-    margin: 100px auto;
-    width: 80%;
+    margin: 100 px auto;
+    width: 80 %;
 }
 
 .image2 {
-    max-width: 450px;
+    max-width: 450 px;
     float: right;
 }
 
@@ -103,9 +103,9 @@ p {
 
 
 .colum {
-  flex: 30%; 
-  padding: 8px;
-  margin-left: 9%;
+  flex: 30 %; 
+  padding: 8 px;
+  margin-left: 9 %;
 }
 
 
