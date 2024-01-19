@@ -2,8 +2,8 @@ html {
     background-color: cornsilk;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-sizing: border-box;
-    margin: 30px;
-    padding: 8px;
+    margin: 50px;
+    padding: 35px;
 }
 
 *,
@@ -26,7 +26,6 @@ h2 {
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 22px;
-    margin:10px;
 }
 
 .list {
